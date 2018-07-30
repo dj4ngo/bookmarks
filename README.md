@@ -1,5 +1,16 @@
 
 # Pentest
+https://www.linuxjournal.com/content/more-using-bashs-built-devtcp-file-tcpip
+https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces
+http://pentestmonkey.net
+https://docs.docker.com/engine/security/security/#control-groups
+https://coreos.com/clair/docs/latest/
+https://coreos.com/rkt/
+https://docs.openstack.org/security-guide/compute/hardening-the-virtualization-layers.html
+https://lwn.net/Articles/619332/
+
+
+
 ## Tools
 ### Proxys
   * burp
