@@ -1,3 +1,4 @@
+--------------------------------
 # Linux
 
 ## Namespace
@@ -9,8 +10,16 @@
 ## DBUS
   * [What is dbus](//yoannsculo.developpez.com/tutoriels/linux/introduction-dbus/)
 
+## Shell
+  * [shell](https://www.shellscript.sh/)
+
+
+
+--------------------------------
 # Hardening
 
+## Linux
+  * [40 tips](https://www.cyberciti.biz/tips/linux-security.html)
 ## Docker
   * [general](https://docs.docker.com/engine/security/security)
 
@@ -20,9 +29,11 @@
 ## KVM
   * [security state of 2014](https://lwn.net/Articles/619332/) 
 
-## general
-  [le goblin](https://khaganat.net/forum/index.php/topic,554.0.html)
+--------------------------------
+# General
+  * [le goblin](https://khaganat.net/forum/index.php/topic,554.0.html)
 
+--------------------------------
 # Pentest
 
 ## Tools
@@ -62,6 +73,7 @@
   * [hackthebox](https://www.hackthebox.eu/)
 
 
+--------------------------------
 # Streaming 
   * [wobno](http://wobno.com/)
 
