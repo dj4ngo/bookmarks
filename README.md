@@ -9,8 +9,6 @@
 ## DBUS
   * [What is dbus](//yoannsculo.developpez.com/tutoriels/linux/introduction-dbus/)
 
-
-
 # Hardening
 
 ## Docker
@@ -21,6 +19,9 @@
 
 ## KVM
   * [security state of 2014](https://lwn.net/Articles/619332/) 
+
+## general
+  [le goblin](https://khaganat.net/forum/index.php/topic,554.0.html)
 
 # Pentest
 
@@ -44,7 +45,7 @@
   * nikto
 
 ## Reverse Shell
-[Bash/Perl/Python/PHP/Netcat/Java/xterm](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+  * [Bash/Perl/Python/PHP/Netcat/Java/xterm](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
 
 ## PHP
@@ -53,7 +54,14 @@
   * [PHP wrappers](http://php.net/manual/fr/wrappers.php)
 
 ## General Websites
-[pentestmonkey](http://pentestmonkey.net)
+  * [pentestmonkey](http://pentestmonkey.net)
 
 ## Online challenges
+  * [root-me](https://www.root-me.org/)
+  * [pentest-it](https://lab.pentestit.ru/)
+  * [hackthebox](https://www.hackthebox.eu/)
+
+
+# Streaming 
+  * [wobno](http://wobno.com/)
 
