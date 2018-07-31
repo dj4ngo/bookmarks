@@ -1,19 +1,37 @@
+# Linux
+
+## Namespace
+  * [What are namespaces](https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces)
+
+## Network
+  * [work with devtcp](https://www.linuxjournal.com/content/more-using-bashs-built-devtcp-file-tcpip)
+
+## DBUS
+  * [What is dbus](//yoannsculo.developpez.com/tutoriels/linux/introduction-dbus/)
+
+
+
+# Hardening
+
+## Docker
+  * [general](https://docs.docker.com/engine/security/security)
+
+## Openstack
+  * [KVM](https://docs.openstack.org/security-guide/compute/hardening-the-virtualization-layers.html)
+
+## KVM
+  * [security state of 2014](https://lwn.net/Articles/619332/) 
 
 # Pentest
-https://www.linuxjournal.com/content/more-using-bashs-built-devtcp-file-tcpip
-https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces
-http://pentestmonkey.net
-https://docs.docker.com/engine/security/security/#control-groups
-https://coreos.com/clair/docs/latest/
-https://coreos.com/rkt/
-https://docs.openstack.org/security-guide/compute/hardening-the-virtualization-layers.html
-https://lwn.net/Articles/619332/
-
-
 
 ## Tools
+
 ### Proxys
   * burp
+### Scan vulns
+  * [Clair (docker)](https://coreos.com/clair/docs/latest)
+  * [rtk (docker)](https://coreos.com/rkt/)
+
 ### sql injections
   * sqlmap
 ### checks
@@ -25,9 +43,17 @@ https://lwn.net/Articles/619332/
   * metasploit
   * nikto
 
+## Reverse Shell
+[Bash/Perl/Python/PHP/Netcat/Java/xterm](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+
 
 ## PHP
-  * [Mail Injection with escapeshellcmd escapeshellarg - https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/](https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/)
-  * [PHP filter for local inclusion - https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/](https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/)
-  * [PHP wrappers - http://php.net/manual/fr/wrappers.php](http://php.net/manual/fr/wrappers.php)
+  * [Mail Injection with escapeshellcmd escapeshellarg](https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/)
+  * [PHP filter for local inclusion](https://www.idontplaydarts.com/2011/02/using-php-filter-for-local-file-inclusion/)
+  * [PHP wrappers](http://php.net/manual/fr/wrappers.php)
+
+## General Websites
+[pentestmonkey](http://pentestmonkey.net)
+
+## Online challenges
 
