@@ -1,4 +1,10 @@
 --------------------------------
+# General
+  * [le goblin](https://khaganat.net/forum/index.php/topic,554.0.html)
+
+
+
+--------------------------------
 # Linux
 
 ## Namespace
@@ -12,7 +18,11 @@
 
 ## Shell
   * [shell](https://www.shellscript.sh/)
+## Packaging
+  * [snapcraft|appimage|flatpak](https://www.devpy.me/snapcraft-appimage-flatpak/)
 
+## Ansible
+  * [How to Contribute](https://blog.squad.fr/virtual-infrastructure/ansible-project-how-to-contribute.html)
 
 
 --------------------------------
@@ -29,9 +39,7 @@
 ## KVM
   * [security state of 2014](https://lwn.net/Articles/619332/) 
 
---------------------------------
-# General
-  * [le goblin](https://khaganat.net/forum/index.php/topic,554.0.html)
+
 
 --------------------------------
 # Pentest
@@ -56,7 +64,7 @@
   * nikto
 
 ## Reverse Shell
-  * [Bash/Perl/Python/PHP/Netcat/Java/xterm](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+  * [Bash|Perl|Python|PHP|Netcat|Java|xterm](http:||pentestmonkey.net|cheat-sheet|shells|reverse-shell-cheat-sheet)
 
 
 ## PHP
