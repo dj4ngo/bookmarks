@@ -7,7 +7,13 @@
 --------------------------------
 # Linux
 
+## Cgroups
+  * [redhat doc](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch01)
+  * [official cgroups v1](https://www.kernel.org/doc/Documentation/cgroup-v1/)
+  * [official cgroups v2](https://www.kernel.org/doc/Documentation/cgroup-v2.txt)
+
 ## Namespace
+  * [deep presentation](https://lwn.net/Articles/527342/)
   * [What are namespaces](https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces)
 
 ## Network
