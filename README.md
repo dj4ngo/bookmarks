@@ -36,6 +36,7 @@
 
 ## Linux
   * [40 tips](https://www.cyberciti.biz/tips/linux-security.html)
+  * [25 tips](https://www.tecmint.com/linux-server-hardening-security-tips/)
 ## Docker
   * [general](https://docs.docker.com/engine/security/security)
   * [Docker Security Scanning](https://docs.docker.com/v17.12/docker-cloud/builds/image-scan/)
