@@ -65,6 +65,7 @@
 
 ### Scan vulns
   * [Clair (docker)](https://coreos.com/clair/docs/latest)
+  * [Clair article from Objectif-libre](https://www.objectif-libre.com/fr/blog/2018/07/26/scanning-docker-images-with-clair-and-gitlab/)
   * [rtk (docker)](https://coreos.com/rkt/)
 
 ### sql injections
