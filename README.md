@@ -81,7 +81,8 @@
 
 ## Reverse Shell
   * [Bash|Perl|Python|PHP|Netcat|Java|xterm](http:||pentestmonkey.net|cheat-sheet|shells|reverse-shell-cheat-sheet)
-
+  * [PHP sploit](https://github.com/nil0x42/phpsploit)
+  * [PHPBash](https://github.com/Arrexel/phpbash)
 
 ## PHP
   * [Mail Injection with escapeshellcmd escapeshellarg](https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/)
@@ -97,6 +98,8 @@
   * [pentest-it](https://lab.pentestit.ru/)
   * [hackthebox](https://www.hackthebox.eu/)
 
+# Gist on docker / hardening / Linux
+[https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
 
 --------------------------------
 # Streaming 
