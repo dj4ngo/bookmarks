@@ -15,6 +15,7 @@
 ## Namespace
   * [deep presentation](https://lwn.net/Articles/527342/)
   * [What are namespaces](https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces)
+  * [nsenter](https://github.com/jpetazzo/nsenter/blob/master/README.md)
 
 ## Network
   * [work with devtcp](https://www.linuxjournal.com/content/more-using-bashs-built-devtcp-file-tcpip)
