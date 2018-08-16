@@ -98,6 +98,9 @@
   * [pentest-it](https://lab.pentestit.ru/)
   * [hackthebox](https://www.hackthebox.eu/)
 
+## Binaries static compiled
+  * [static binaries](https://github.com/andrew-d/static-binaries/)
+
 # Gist on docker / hardening / Linux
 [https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
 
