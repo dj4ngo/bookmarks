@@ -60,6 +60,7 @@
   * gobuster
   * [wpscan](https://github.com/wpscanteam/wpscan.git)
   * cewl (Password list generation from a site page)
+  * [hashcat](https://hashcat.net/hashcat/)
 
 ### Proxys
   * burp
